@@ -1,0 +1,93 @@
+# This file will be read by# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+
+# Google DNS tweak
+net.rmnet0.dns1=8.8.8.8
+net.rmnet0.dns2=8.8.4.4
+net.dns1=8.8.8.8
+net.dns2=8.8.4.4
+
+# DNS Norton tweak
+net.rmnet0.dns1=198.153.192.40
+net.rmnet0.dns2=198.153.194.40
+net.dns=1198.153.192.40
+net.dns=1198.153.194.40
+
+# OpenDNS tweak
+net.rmnet0.dns1=208.67.222.222
+net.rmnet0.dns2=208.67.220.220
+net.dns=208.67.220.222
+net.dns=208.67.220.220
+
+update  208.67.222.123
+update  208.67.220.123
+
+# Quad9 tweak
+net.rmnet0.dns1=9.9.9.9
+net.rmnet0.dns2=149.112.112.112
+net.dns=9.9.9.9
+net.dns=149.112.112.112
+
+# Cloudflare tweak
+net.rmnet0.dns1=1.1.1.1
+net.rmnet0.dns2=1.0.0.1
+net.dns=1.1.1.1
+net.dns=1.0.0.1
+
+# CleanBrowsing tweak
+net.rmnet0.dns1=185.228.168.9
+net.rmnet0.dns2=185.228.169.9
+net.dns=185.228.168.9
+net.dns=185.228.169.9
+
+# Verisign tweak
+net.rmnet0.dns1=64.6.64.6
+net.rmnet0.dns2=64.6.65.6
+net.dns=64.6.64.6
+net.dns=64.6.65.6
+
+# Alternate DNS tweak
+net.rmnet0.dns1=198.101.242.72
+net.rmnet0.dns2=23.253.163.53
+net.dns=198.101.242.72
+net.dns=23.253.163.53
+
+# AdGuard DNS tweak
+net.rmnet0.dns1=176.103.130.130
+net.rmnet0.dns2=176.103.130.131
+net.dns=176.103.130.130
+net.dns=176.103.130.131
+
+# 5G Network Tweaks
+ro.ril.hep=0
+ro.ril.hsxpa=2
+ro.ril.gprsclass=12
+ro.ril.enable.dtm=1
+ro.ril.hsdpa.category=8
+ro.ril.enable.a53=1
+ro.ril.enable.3g.prefix=1
+ro.ril.htcmaskw1.bitmask=4294967295
+ro.ril.htcmaskw1=14449
+ro.ril.hsupa.category=6
+
+# Internet Speed
+net.tcp.buffersize.default=4096, 87380, 256960, 4096, 16384, 256960
+net.tcp.buffersize.wifi=4096, 87380, 256960, 409 6, 163 84, 256960
+net.tcp.buffersize.umts=4096, 8 7380, 256960, 4096, 163 84, 256960
+net.tcp.buffersize.gprs=4096, 8 7380, 256960, 4096, 163 84, 256960
+net.tcp.buffersize.edge=4096, 8 7380, 256960, 4096, 163 84, 256960
+
+# GOOGLE DNS
+net.dns1=8.8.8.8
+net.dns2=8.8.4.4
+net.rmnet0.dns1=8.8.8.8
+net.rmnet0.dns2=8.8.4.4
+net.ppp0.dns1=8.8.8.8
+net.ppp0.dns2=8.8.4.4
+net.wlan0.dns1=8.8.8.8
+net.wlan0.dns2=8.8.4.4
+net.eth0.dns1=8.8.8.8
+net.eth0.dns2=8.8.4.4
+net.gprs.dns1=8.8.8.8
+net.gprs.dns2=8.8.4.4
