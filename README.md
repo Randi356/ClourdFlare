@@ -6,7 +6,7 @@
 - Fix PING test network signal 
 
 # Github support 
-
+- Link https://github.com/Randi356/CLOURDFLARE-DNS
 
 
 
