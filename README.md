@@ -1,4 +1,4 @@
-# CLOURDFLARE DNS
+# DNS CLOURDFLARE
 
 ## BY Rendy Wahidin
 
