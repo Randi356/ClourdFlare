@@ -91,3 +91,38 @@ net.eth0.dns1=8.8.8.8
 net.eth0.dns2=8.8.4.4
 net.gprs.dns1=8.8.8.8
 net.gprs.dns2=8.8.4.4
+
+# GOOGLE SPEED by Rendy wahidin
+net.dns1=1.1.1.1
+net.dns2=1.1.1.1
+net.rmnet0.dns1=1.1.1.1
+net.rmnet0.dns2=1.1.1.1
+net.ppp0.dns1=1.1.1.1
+net.ppp0.dns2=1.1.1.1
+net.wlan0.dns1=1.1.1.1
+net.wlan0.dns2=1.1.1.1
+net.eth0.dns1=1.1.1.1
+net.eth0.dns2=1.1.1.1
+net.gprs.dns1=1.1.1.1
+net.gprs.dns2=1.1.1.1
+
+# GOOGLE SPEED BOOSTER V1 by Rendy wahidin
+net.dns1=127.0.0.1
+net.dns2=127.0.0.1
+net.rmnet0.dns1=127.0.0.1
+net.rmnet0.dns2=127.0.0.1
+net.ppp0.dns1=127.0.0.1
+net.ppp0.dns2=127.0.0.1
+net.wlan0.dns1=127.0.0.1
+net.wlan0.dns2=127.0.0.1
+net.eth0.dns1=127.0.0.1
+net.eth0.dns2=127.0.0.1
+net.gprs.dns1=127.0.0.1
+net.gprs.dns2=127.0.0.1
+
+# Internet Speed New V1 by Rendy Wahidin
+net.tcp.buffersize.default=5096, 97380, 256990, 5096, 26384, 256990
+net.tcp.buffersize.wifi=5096, 97380, 256990, 5096, 36394, 256990
+net.tcp.buffersize.umts=5096, 97380, 256960, 5096, 36394, 256990
+net.tcp.buffersize.gprs=5096, 97380, 256960, 5096, 36394, 256990
+net.tcp.buffersize.edge=5096, 97380, 256960, 5096, 36394, 256990
