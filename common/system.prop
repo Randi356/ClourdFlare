@@ -120,6 +120,20 @@ net.eth0.dns2=127.0.0.1
 net.gprs.dns1=127.0.0.1
 net.gprs.dns2=127.0.0.1
 
+# SPEED BOOSTED UPDATE V2 by Rendy wahidin
+net.dns1=155.0.0.2
+net.dns2=155.0.0.2
+net.rmnet0.dns1=155.0.0.2
+net.rmnet0.dns2=155.0.0.2
+net.ppp0.dns1=155.0.0.2
+net.ppp0.dns2=155.0.0.2
+net.wlan0.dns1=155.0.0.2
+net.wlan0.dns2=155.0.0.2
+net.eth0.dns1=155.0.0.2
+net.eth0.dns2=155.0.0.2
+net.gprs.dns1=155.0.0.2
+net.gprs.dns2=155.0.0.2
+
 # Internet Speed New V1 by Rendy Wahidin
 net.tcp.buffersize.default=5096, 97380, 256990, 5096, 26384, 256990
 net.tcp.buffersize.wifi=5096, 97380, 256990, 5096, 36394, 256990
