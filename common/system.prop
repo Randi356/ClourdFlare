@@ -140,3 +140,6 @@ net.tcp.buffersize.wifi=5096, 97380, 256990, 5096, 36394, 256990
 net.tcp.buffersize.umts=5096, 97380, 256960, 5096, 36394, 256990
 net.tcp.buffersize.gprs=5096, 97380, 256960, 5096, 36394, 256990
 net.tcp.buffersize.edge=5096, 97380, 256960, 5096, 36394, 256990
+net.tcp.buffersize.4g=5096, 97380, 256960, 5096, 36394, 256990
+
+# fixed bug network speed
