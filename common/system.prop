@@ -73,10 +73,11 @@ ro.ril.hsupa.category=6
 
 # Internet Speed
 net.tcp.buffersize.default=4096, 87380, 256960, 4096, 16384, 256960
-net.tcp.buffersize.wifi=4096, 87380, 256960, 409 6, 163 84, 256960
-net.tcp.buffersize.umts=4096, 8 7380, 256960, 4096, 163 84, 256960
-net.tcp.buffersize.gprs=4096, 8 7380, 256960, 4096, 163 84, 256960
-net.tcp.buffersize.edge=4096, 8 7380, 256960, 4096, 163 84, 256960
+net.tcp.buffersize.wifi=4096, 87380, 256960, 4096, 16384, 256960
+net.tcp.buffersize.umts=4096, 87380, 256960, 4096, 16384, 256960
+net.tcp.buffersize.gprs=4096, 87380, 256960, 4096, 16384, 256960
+net.tcp.buffersize.edge=4096, 87380, 256960, 4096, 16384, 256960
+net.tcp.buffersize.nr=5000, 89460, 278590, 4157, 18594, 273580
 
 # GOOGLE DNS
 net.dns1=8.8.8.8
@@ -141,5 +142,6 @@ net.tcp.buffersize.umts=5096, 97380, 256960, 5096, 36394, 256990
 net.tcp.buffersize.gprs=5096, 97380, 256960, 5096, 36394, 256990
 net.tcp.buffersize.edge=5096, 97380, 256960, 5096, 36394, 256990
 net.tcp.buffersize.4g=5096, 97380, 256960, 5096, 36394, 256990
+net.tcp.buffersize.nr=5000, 89460, 278590, 4157, 18594, 273580
 
 # fixed bug network speed
