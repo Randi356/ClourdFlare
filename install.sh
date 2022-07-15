@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
  ui_print "*********************************************"
- ui_print "       ClourdFlare updates 2022         "
+ ui_print "       ClourdFlare updates 2022          "
  ui_print "          Randi356@Github.com            "
  ui_print "*********************************************"
 }
